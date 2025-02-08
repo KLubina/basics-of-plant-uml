@@ -1,1 +1,13 @@
-https://rawcdn.githack.com/KLubina/My-Learning-Websites/860ffde3ceea27a7f3fb02463f8b22f02430c28b/basics-of-plantuml/index.html
+# Learning Website: Basics of PlantUML
+
+This repository contains a webpage that explains the basics of PlantUML.
+
+## Preview
+
+![Website Preview](pictures-for-readme/preview.png)
+
+## Features
+
+- Introduction to PlantUML
+- Basic syntax and examples
+- Visual representation of UML diagrams
